@@ -64,5 +64,3 @@ pip install numpy pillow
 - This is a simple educational project and not intended for production use.
 - For best results, use a balanced and diverse dataset.
 
-## License
-This project is open source and available under the MIT License.
